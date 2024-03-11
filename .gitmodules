@@ -1,0 +1,9 @@
+[submodule "OTA"]
+	path = OTA
+	url = git@github.com:PHM-araujo/OTA.git
+[submodule "Wifi"]
+	path = Wetzel_Wifi
+	url = git@github.com:PHM-araujo/Wifi.git
+[submodule "Memory"]
+	path = Wetzel_Memory
+	url = git@github.com:PHM-araujo/Memory.git
